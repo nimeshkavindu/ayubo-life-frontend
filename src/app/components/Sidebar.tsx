@@ -66,7 +66,7 @@ const Sidebar = () => {
                 <a href="/challenges/active">• Active Challenges</a>
               </li>
               <li className="hover:text-gray-800">
-                <a href="/challenges/active">• Disable Challenges</a>
+                <a href="/challenges/disable">• Disable Challenges</a>
               </li>
               </ul>
             )}
